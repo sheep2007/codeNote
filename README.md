@@ -18,3 +18,4 @@ yarn add vuepress-theme-reco
 yarn global add @vuepress-reco/theme-cli@1.0.7
 ```
 写完了记得新建个分支
+记得点star哦
